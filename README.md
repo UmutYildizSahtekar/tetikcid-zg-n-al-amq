@@ -1,1 +1,1 @@
-# tetikcid-zg-n-al-amq
+# TETİKCİ BOT ALTYAPI
